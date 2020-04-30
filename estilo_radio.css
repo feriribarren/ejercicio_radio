@@ -1,0 +1,36 @@
+body{
+	background:#2F4F4F;
+	text-align: center;
+	display:flex;
+	justify-content: center;
+}
+
+.buttons{
+	
+	height: 100px;
+	width: 400px;
+	justify-content: center;
+}
+.playPause {
+	border-radius: 500px;
+	background:#2F4F4F;
+	border:2px solid white;
+	color:white;
+	text-align: center;
+	font-size:30px;
+	margin-top:30px;
+	margin-left:10px;
+	margin-right: 10px;
+	padding-top:0px;
+}
+
+.previous, .next{
+border-radius: 200px;
+	background:#2F4F4F;
+	border:2px solid #2F4F4F;
+	color:white;
+	text-align: center;
+	font-size:30px;
+	margin-top:30px;
+		
+}
